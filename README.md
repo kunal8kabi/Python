@@ -1,5 +1,5 @@
-# Python Jupyter or Colab Files
-Here are some python Jupyter or Google Colab Files. You can download and use it in two ways. 
+# Simple Python Programs to use Jupyter or Google Colab 
+Here are some python programs written. You can download and use it in two ways. 
 1) By Jupyter
 2) By using Google Colab
 
