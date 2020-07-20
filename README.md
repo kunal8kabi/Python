@@ -1,4 +1,4 @@
-# Simple Python Programs to use Jupyter or Google Colab 
+# Simple Python Programs to use on Jupyter or Google Colab 
 Here are some python programs written. You can download and use it in two ways. 
 1) By Jupyter
 2) By using Google Colab
